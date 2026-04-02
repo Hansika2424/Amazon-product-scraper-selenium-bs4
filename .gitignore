@@ -1,0 +1,11 @@
+# Proxy file (contains credentials)
+proxy.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (if you use one)
+venv/
+.env
